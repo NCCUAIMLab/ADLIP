@@ -1,4 +1,4 @@
-- This is the example code for the book <深度學習在影像處理的應用>
+- This is the example code for the book <Applications of Deep Learning in Image Processing >
 
 - Outline:
   - 00 Pytorch Basic: Introduce some basic concepts in pytorch
