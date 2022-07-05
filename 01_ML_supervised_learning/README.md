@@ -19,11 +19,9 @@ below instead of least square based methods.
 Please analysis the relation between the house's attribute and the house price. And Report what you found.
 
 ## Problem Description of logistic_regression.ipynb
-In ‘train.mat,’ you can find 2-D points X=[x1, x2] and their corresponding labels Y=y. 
-Please use logistic regression ℎ(𝜽) = 1/ 1+𝑒−𝜽𝑇𝑥 to find the decision boundary (optimal 𝜽∗) based on ‘train.mat.” Please use a gradient descent method to solve it and report the test error on the test dataset ‘test.mat.’ (percentage of misclassified test 
-samples)
-
-
+- In ‘train.mat,’ you can find 2-D points X=[x1, x2] and their corresponding labels Y=y. 
+- Please use logistic regression ℎ(𝜽) = 1/ 1+𝑒−𝜽𝑇𝑥 to find the decision boundary (optimal 𝜽∗) based on ‘train.mat.” 
+- Please use a gradient descent method to solve it and report the test error on the test dataset ‘test.mat.’ (percentage of misclassified test samples)
 
 ## Requirements:
 - scikit-learn 
