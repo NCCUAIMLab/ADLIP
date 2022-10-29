@@ -3,7 +3,8 @@
   - Ch2 環境與資料科學套件介紹
     - numpy.ipynb
     - pandas.ipynb
-    - torch.ipynb
+    - torch_basic.ipynb
+    - torch_dataset&net.ipynb
 
   <!-- - 01 ML:Supervised-learning
     - Simple Linear Regression
