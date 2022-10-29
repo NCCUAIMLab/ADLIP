@@ -5,27 +5,14 @@
     - pandas.ipynb
     - torch_basic.ipynb
     - torch_dataset&net.ipynb
-
-  <!-- - 01 ML:Supervised-learning
-    - Simple Linear Regression
-    - Classification
-  - 02 ML:Unsupervised-learning
-    - Clustering
-    - Principal Component Analysis
-  - 03 ML:Ensemble Learning
-    - Bagging
-    - Boosting
-    - Random Forest
-  - 04 Pytorch Basic
-    - Tensor
-    - Dataset & Dataloader
-    - Pooling
-  - 05 Pytorch : Fully Connected Network
-  - 06 Pytorch : Convolution Neural Network
-    - Image Classification with CNN
-  - 07 Pytorch : Fine-tune VGG19!
-    - Image Classification with VGG19
-  - 08 Pytorch Advanced: Recurrent Neural Network
-  - 09 Pytorch Advanced: Generative Adversarial Networks
-  - [Project] Defence System: build a neural network to solve a Binary classification problem
-  - [Project] Mnist: handwritten numeral recognition and classification -->
+  - Ch3 機器學習與深度學習基礎
+    - regression_with_sciki-learn.ipynb
+    - regression.ipynb
+  - Ch4 卷積神經網路
+    - cnn.py (Convolution Neural Network)
+  - Ch5 常見深度學習訓練技巧
+    - finetune_VGG19.py
+  - Ch7 進階深度學習技術介紹
+    - GAN.py (Generative Advansarial Networks)
+  - [Project] 防禦系統二分類問題 (Defence System: build a neural network to solve a Binary classification problem) 
+  - [Project] Mnist 手寫數字辨識與分類 (Mnist: handwritten numeral recognition and classification)
