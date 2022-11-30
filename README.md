@@ -6,8 +6,9 @@
     - torch_basic.ipynb
     - torch_dataset&net.ipynb
   - Ch3 機器學習與深度學習基礎
-    - regression_with_sciki-learn.ipynb
     - regression.ipynb
+    - logistic_regression.ipynb
+    - pca.ipynb
   - Ch4 卷積神經網路
     - cnn.py (Convolution Neural Network)
   - Ch5 常見深度學習訓練技巧
