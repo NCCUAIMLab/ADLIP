@@ -1,4 +1,4 @@
-# Supervised Learning
+# 機器學習與深度學習基礎
 - Ontlines:
     - Regression
         - regression.ipynb
