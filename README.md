@@ -8,9 +8,11 @@
     - Matplotlib 範例程式碼
 
   - Ch3 機器學習與深度學習基礎
-    - regression.ipynb
-    - logistic_regression.ipynb
-    - pca.ipynb
+    - 回歸 (Regression)
+    - 分類 (Classification)
+    - 降維 (Reduce Dimension)
+    - 分群 (Clustering)
+  
   - Ch4 卷積神經網路
     - cnn.py (Convolution Neural Network)
   - Ch5 常見深度學習訓練技巧
