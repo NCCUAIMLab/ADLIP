@@ -1,10 +1,12 @@
 這裡是「深度學習在影像處理之應用」一書的範例程式碼
 - 大綱:
   - Ch2 環境與資料科學套件介紹
-    - numpy.ipynb
-    - pandas.ipynb
-    - torch_basic.ipynb
-    - torch_dataset&net.ipynb
+    - Colab 基本介紹
+    - Numpy 範例程式碼
+    - Pandas 範例程式碼
+    - Pytorch 範例程式碼
+    - Matplotlib 範例程式碼
+
   - Ch3 機器學習與深度學習基礎
     - regression.ipynb
     - logistic_regression.ipynb
