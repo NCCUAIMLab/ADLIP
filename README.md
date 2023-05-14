@@ -27,5 +27,7 @@
 
   - Ch7 進階深度學習技術介紹
     - GAN.py (Generative Advansarial Networks)
-  - [Project] 防禦系統二分類問題 (Defence System: build a neural network to solve a Binary classification problem) 
-  - [Project] Mnist 手寫數字辨識與分類 (Mnist: handwritten numeral recognition and classification)
+  
+  - Ch8 基於影像的深度學習案例
+    - 訓練VGG網路 (FinetuneVGG.ipynb)
+    - 影像修復與辨識實驗之程式碼介紹 (ch8_exp.ipynb)
